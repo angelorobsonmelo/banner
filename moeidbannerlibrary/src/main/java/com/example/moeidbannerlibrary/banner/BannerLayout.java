@@ -9,10 +9,10 @@ import android.graphics.drawable.GradientDrawable;
 import android.graphics.drawable.LayerDrawable;
 import android.os.Handler;
 import android.os.Message;
-import android.support.v4.view.GravityCompat;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.OrientationHelper;
-import android.support.v7.widget.RecyclerView;
+import androidx.core.view.GravityCompat;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.OrientationHelper;
+import androidx.recyclerview.widget.RecyclerView;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.util.TypedValue;
@@ -25,7 +25,6 @@ import android.widget.ImageView;
 import com.example.moeidbannerlibrary.banner.layoutmanager.BannerLayoutManager;
 import com.example.moeidbannerlibrary.banner.layoutmanager.CenterSnapHelper;
 import com.example.moeidbannerlibrary.R;
-import com.example.moeidbannerlibrary.banner.layoutmanager.BannerLayoutManager.*;
 
 import static android.widget.AbsListView.OnScrollListener.SCROLL_STATE_IDLE;
 

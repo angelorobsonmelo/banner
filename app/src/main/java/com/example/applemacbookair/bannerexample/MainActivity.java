@@ -1,9 +1,7 @@
 package com.example.applemacbookair.bannerexample;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutManager;
-import android.widget.LinearLayout;
 
 import com.example.moeidbannerlibrary.banner.BannerLayout;
 import com.example.moeidbannerlibrary.banner.BaseBannerAdapter;

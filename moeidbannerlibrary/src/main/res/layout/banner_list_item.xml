@@ -6,7 +6,7 @@
     android:layout_width="205dp"
     android:layout_height="130dp">
 
-    <android.support.v7.widget.CardView
+    <androidx.cardview.widget.CardView
         android:layout_width="300dp"
         android:layout_height="100dp"
         android:layout_alignParentLeft="true"
@@ -34,6 +34,6 @@
                 android:elevation="20dp"
                 android:scaleType="centerCrop" />
         </RelativeLayout>
-    </android.support.v7.widget.CardView>
+    </androidx.cardview.widget.CardView>
 
 </RelativeLayout>
