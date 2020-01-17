@@ -17,9 +17,9 @@
         android:textAlignment="center"
         app:autoPlaying="true"
         app:centerScale="1.6"
-        app:itemSpace="0"
+        app:itemSpace="5"
         app:moveSpeed="0.5"
-        app:showIndicator="true"
+        app:showIndicator="false"
 
 
      >
